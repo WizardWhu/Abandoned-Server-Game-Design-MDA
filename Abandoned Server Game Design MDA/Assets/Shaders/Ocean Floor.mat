@@ -53,8 +53,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale: 7.64
+    - _Scale: 8.71
     m_Colors:
-    - _Tilling: {r: 10.24, g: 17.95, b: 0, a: 0}
+    - _Color: {r: 0.235489, g: 0.23773581, b: 0.085674606, a: 1}
+    - _Tilling: {r: 2.32, g: 2.9, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
