@@ -56,25 +56,25 @@ Material:
     - _Foam_Limit: 0.53
     - _Foam_Min: 0.1
     - _Foam_Size: 81.41
-    - _Frensnel_Power: 0.01
-    - _Max_Smoothness: 0.5
-    - _Metalic: 0.4
-    - _Min_Smoothness: 0.4
+    - _Frensnel_Power: -0
+    - _Max_Smoothness: 0.92
+    - _Metalic: 0.1
+    - _Min_Smoothness: 0.47
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RippleCount: 100
     - _RippleSize: 0.25
     - _SmallerWaveSize: 0
-    - _Smoothness_Distance_Fallof: 0.15
+    - _Smoothness_Distance_Fallof: 0.33
     - _Transparency: 1
     - _Transparency_Distance_Fallof: 0.98
     - _Transparency_Max: 1
-    - _Transparency_Min: 0.26
+    - _Transparency_Min: 0.5
     - _WaveCount: 14.72
-    - _WaveSize: 0.1
+    - _WaveSize: 0.05
     - _WaveSpeed: 0.5
     m_Colors:
-    - _Foam_Color: {r: 0.76683205, g: 0.8113208, b: 0.5740477, a: 1}
-    - _Water_Color: {r: 0.53315276, g: 0.5773585, b: 0.38672125, a: 1}
+    - _Foam_Color: {r: 0.16043542, g: 0.16981131, b: 0.12527588, a: 1}
+    - _Water_Color: {r: 0.14381254, g: 0.15471691, b: 0.107134156, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
