@@ -52,13 +52,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _Height: 0.15
-    - _Metalness: 3.12
+    - _Metalness: 0.62
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale: 3.33
-    - _Smoothness: 0.01
+    - _Smoothness: 0.06
     m_Colors:
-    - _Color: {r: 0.338894, g: 0.3433962, b: 0.16781059, a: 1}
+    - _Color: {r: 0.25489682, g: 0.2603773, b: 0.13706653, a: 1}
     - _Tilling: {r: 2.32, g: 2.9, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
