@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 012741ff6eb78cf419ea32e8543daa52, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -138,7 +138,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &561775
 Transform:
@@ -850,7 +850,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &17457787
 Transform:
@@ -1854,7 +1854,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &20671772
 Transform:
@@ -1953,7 +1953,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 65
   m_IsActive: 1
 --- !u!4 &44394667
 Transform:
@@ -2011,7 +2011,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
+  m_StaticShadowCaster: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -2037,7 +2037,7 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -3140,7 +3140,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &101467625
 Transform:
@@ -4149,7 +4149,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &108463878
 Transform:
@@ -5395,7 +5395,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &155281223
 Transform:
@@ -5751,7 +5751,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &160788172
 Transform:
@@ -6285,7 +6285,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &177385886
 Transform:
@@ -7472,7 +7472,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &216067738
 Transform:
@@ -7828,7 +7828,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &216118761
 Transform:
@@ -9015,7 +9015,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &241711757
 MeshCollider:
@@ -9368,7 +9368,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &244400078
 Transform:
@@ -10377,7 +10377,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &265151307
 MeshCollider:
@@ -10733,7 +10733,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &267956060
 Transform:
@@ -11920,7 +11920,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &270579036
 Transform:
@@ -13107,7 +13107,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &277725121
 Transform:
@@ -14472,7 +14472,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &305411152
 Transform:
@@ -15481,7 +15481,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &305949954
 Transform:
@@ -16485,7 +16485,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &306207703
 Transform:
@@ -16719,7 +16719,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &329914371
 Transform:
@@ -17609,7 +17609,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &362823057
 Transform:
@@ -17965,7 +17965,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &376071030
 Transform:
@@ -19330,7 +19330,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &397882068
 Transform:
@@ -19686,7 +19686,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &402029756
 Transform:
@@ -21192,7 +21192,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &431576527
 Transform:
@@ -22557,7 +22557,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &451374294
 Transform:
@@ -23922,7 +23922,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &485261096
 Transform:
@@ -24931,7 +24931,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &486910985
 Transform:
@@ -25287,7 +25287,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &487100140
 Transform:
@@ -26296,7 +26296,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &503343239
 Transform:
@@ -27661,7 +27661,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &506680468
 Transform:
@@ -29026,7 +29026,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &523810686
 Transform:
@@ -30213,7 +30213,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &541518274
 Transform:
@@ -33395,7 +33395,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &552085143
 Transform:
@@ -34760,7 +34760,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &615725586
 Transform:
@@ -36125,7 +36125,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &626838134
 Transform:
@@ -37134,7 +37134,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &642915475
 MeshCollider:
@@ -37668,7 +37668,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &654264016
 MeshCollider:
@@ -38202,7 +38202,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &703328150
 Transform:
@@ -39567,7 +39567,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &727855645
 MeshCollider:
@@ -40279,7 +40279,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &759842714
 MeshCollider:
@@ -40991,7 +40991,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &783294222
 Transform:
@@ -41525,7 +41525,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &813354812
 Transform:
@@ -42534,7 +42534,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &827663393
 MeshCollider:
@@ -42890,7 +42890,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &837779867
 Transform:
@@ -43899,7 +43899,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &841805742
 Transform:
@@ -45145,7 +45145,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &969695568
 Transform:
@@ -45501,7 +45501,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &991412755
 Transform:
@@ -46688,7 +46688,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1021538308
 Transform:
@@ -47697,7 +47697,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1040809516
 Transform:
@@ -48231,7 +48231,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1050180463
 Transform:
@@ -49418,7 +49418,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1078416986
 Transform:
@@ -50783,7 +50783,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1110361298
 Transform:
@@ -51970,7 +51970,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1115171311
 Transform:
@@ -52979,7 +52979,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1116954076
 Transform:
@@ -53510,7 +53510,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1122191838
 Transform:
@@ -54697,7 +54697,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1126619632
 Transform:
@@ -55706,7 +55706,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1129232635
 Transform:
@@ -56893,7 +56893,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1137815530
 Transform:
@@ -57902,7 +57902,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1138792912
 Transform:
@@ -58614,7 +58614,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1153150113
 Transform:
@@ -59623,7 +59623,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1154389748
 Transform:
@@ -60335,7 +60335,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1205887423
 Transform:
@@ -60869,7 +60869,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1215966927
 Transform:
@@ -62412,7 +62412,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &1279367723
 MeshCollider:
@@ -62768,7 +62768,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1285879375
 Transform:
@@ -63777,7 +63777,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1289334321
 Transform:
@@ -65761,7 +65761,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1328547647
 Transform:
@@ -66770,7 +66770,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &1339541512
 MeshCollider:
@@ -67263,7 +67263,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1353293154
 Transform:
@@ -68314,9 +68314,9 @@ Mesh:
       format: 0
       dimension: 2
     - stream: 0
-      offset: 0
+      offset: 48
       format: 0
-      dimension: 0
+      dimension: 2
     - stream: 0
       offset: 0
       format: 0
@@ -68349,8 +68349,8 @@ Mesh:
       offset: 0
       format: 0
       dimension: 0
-    m_DataSize: 2976
-    _typelessdata: a04f293f003a95c0000000000000803f00000000fe2506b3fe250633000000000000803f000080bf87ae4abe003a95c0a04f293f486ce840000000000000803f00000000fe2506b3fe250633000000000000803f000080bf87ae4abe486ce8407e43f53e003a95c070d3143fdf20513f0000000017a7133f17a713bf00000000de20513f000080bfc89bd23e003a95c07e43f53e486ce84070d3143fdf20513f0000000017a7133f17a713bf00000000de20513f000080bfc89bd23e486ce8407e43f53e003a95c070d3143fdf20513f0000000017a7133f17a713bf00000000df20513f000080bf80bd07bd003a95c07e43f53e486ce84070d3143fdf20513f0000000017a7133f17a713bf00000000df20513f000080bf80bd07bd486ce840001ed93a003a95c030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf6978103f003a95c0001ed93a486ce84030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf6978103f486ce840001ed93a003a95c030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf001ed9ba003a95c0001ed93a486ce84030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf001ed9ba486ce8400ea216bf003a95c030ce703fd851a2be0000000058cb723f58cb72bf00000000d851a2be000080bf0ea2163f003a95c00ea216bf486ce84030ce703fd851a2be0000000058cb723f58cb72bf00000000d851a2be000080bf0ea2163f486ce8400ea216bf003a95c030ce703fd851a2be0000000058cb723f58cb72bf00000000d751a2be000080bfbba5c3bd003a95c00ea216bf486ce84030ce703fd851a2be0000000058cb723f58cb72bf00000000d751a2be000080bfbba5c3bd486ce840a06b88bf003a95c06fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bf8d7f003f003a95c0a06b88bf486ce8406fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bf8d7f003f486ce840a06b88bf003a95c06fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bfff6671be003a95c0a06b88bf486ce8406fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bfff6671be486ce84090c29fbf003a95c019afb9b3000080bf00000000fd3849b3fd25863300000000000080bf000080bf8d3fbf3e003a95c090c29fbf486ce84019afb9b3000080bf00000000fd3849b3fd25863300000000000080bf000080bf8d3fbf3e486ce84090c29fbf003a95c019afb9b3000080bf00000000fd3849b3ff25063300000000000080bf000080bf8b3fbfbe003a95c090c29fbf486ce84019afb9b3000080bf00000000fd3849b3ff25063300000000000080bf000080bf8b3fbfbe486ce840a06b88bf003a95c06ed314bfdf2051bf0000000016a713bf17a7133f00000000df2051bf000080bff366713e003a95c0a06b88bf486ce8406ed314bfdf2051bf0000000016a713bf17a7133f00000000df2051bf000080bff366713e486ce840a06b88bf003a95c06ed314bfdf2051bf0000000016a713bf15a7133f00000000df2051bf000080bf8b7f00bf003a95c0a06b88bf486ce8406ed314bfdf2051bf0000000016a713bf15a7133f00000000df2051bf000080bf8b7f00bf486ce84010a216bf003a95c02fce70bfd951a2be0000000058cb72bf58cb723f00000000d851a2be000080bfbaa5c33d003a95c010a216bf486ce8402fce70bfd951a2be0000000058cb72bf58cb723f00000000d851a2be000080bfbaa5c33d486ce84010a216bf003a95c02fce70bfd951a2be0000000058cb72bf57cb723f00000000d951a2be000080bf10a216bf003a95c010a216bf486ce8402fce70bfd951a2be0000000058cb72bf57cb723f00000000d951a2be000080bf10a216bf486ce8400022d93a003a95c02fce70bfd851a23e0000000058cb72bf58cb723f00000000d851a23e000080bf0022d93a003a95c00022d93a486ce8402fce70bfd851a23e0000000058cb72bf58cb723f00000000d851a23e000080bf0022d93a486ce8400022d93a003a95c02fce70bfd851a23e0000000058cb72bf58cb723f00000000d751a23e000080bf677810bf003a95c00022d93a486ce8402fce70bfd851a23e0000000058cb72bf58cb723f00000000d751a23e000080bf677810bf486ce8407c43f53e003a95c071d314bfde20513f0000000017a713bf16a7133f00000000de20513f000080bf69bd073d003a95c07c43f53e486ce84071d314bfde20513f0000000017a713bf16a7133f00000000de20513f000080bf69bd073d486ce8407c43f53e003a95c071d314bfde20513f0000000017a713bf17a7133f00000000de20513f000080bfca9bd2be003a95c07c43f53e486ce84071d314bfde20513f0000000017a713bf17a7133f00000000de20513f000080bfca9bd2be486ce840a04f293f003a95c0000000000000803f00000000fe2506b3fe250633000000000000803f000080bf89ae4a3e003a95c0a04f293f486ce840000000000000803f00000000fe2506b3fe250633000000000000803f000080bf89ae4a3e486ce8407e43f53e003a95c070d3143f00000000000080bf00000000000080bf0000000000000000000080bf7e43f5be70d3143f803596be003a95c00000000000000000000080bf00000000000080bf0000000000000000000080bf8035963e00000000a04f293f003a95c00000000000000000000080bf00000000000080bf0000000000000000000080bfa04f29bf00000000001ed93a003a95c030ce703f00000000000080bf00000000000080bf0000000000000000000080bf001ed9ba30ce703f0ea216bf003a95c030ce703f00000000000080bf00000000000080bf0000000000000000000080bf0ea2163f30ce703fa06b88bf003a95c06fd3143f00000000000080bf00000000000080bf0000000000000000000080bfa06b883f6fd3143f90c29fbf003a95c019afb9b300000000000080bf00000000000080bf0000000000000000000080bf90c29f3f19afb9b3a06b88bf003a95c06ed314bf00000000000080bf00000000000080bf0000000000000000000080bfa06b883f6ed314bf10a216bf003a95c02fce70bf00000000000080bf00000000000080bf0000000000000000000080bf10a2163f2fce70bf0022d93a003a95c02fce70bf00000000000080bf00000000000080bf0000000000000000000080bf0022d9ba2fce70bf7c43f53e003a95c071d314bf00000000000080bf00000000000080bf0000000000000000000080bf7c43f5be71d314bfa04f293f486ce84000000000000000000000803f000000000000803f0000000000000000000080bfa04f293f00000000803596be486ce84000000000000000000000803f000000000000803f0000000000000000000080bf803596be000000007e43f53e486ce84070d3143f000000000000803f000000000000803f0000000000000000000080bf7e43f53e70d3143f001ed93a486ce84030ce703f000000000000803f000000000000803f0000000000000000000080bf001ed93a30ce703f0ea216bf486ce84030ce703f000000000000803f000000000000803f0000000000000000000080bf0ea216bf30ce703fa06b88bf486ce8406fd3143f000000000000803f000000000000803f0000000000000000000080bfa06b88bf6fd3143f90c29fbf486ce84019afb9b3000000000000803f000000000000803f0000000000000000000080bf90c29fbf19afb9b3a06b88bf486ce8406ed314bf000000000000803f000000000000803f0000000000000000000080bfa06b88bf6ed314bf10a216bf486ce8402fce70bf000000000000803f000000000000803f0000000000000000000080bf10a216bf2fce70bf0022d93a486ce8402fce70bf000000000000803f000000000000803f0000000000000000000080bf0022d93a2fce70bf7c43f53e486ce84071d314bf000000000000803f000000000000803f0000000000000000000080bf7c43f53e71d314bf
+    m_DataSize: 3472
+    _typelessdata: a04f293f003a95c0000000000000803f00000000fe2506b3fe250633000000000000803f000080bf87ae4abe003a95c034d7a33c28dab33ea04f293f486ce840000000000000803f00000000fe2506b3fe250633000000000000803f000080bf87ae4abe486ce84009467b3f28dab33e7e43f53e003a95c070d3143fdf20513f0000000017a7133f17a713bf00000000de20513f000080bfc89bd23e003a95c0f0d7a33c8500cd3e7e43f53e486ce84070d3143fdf20513f0000000017a7133f17a713bf00000000de20513f000080bfc89bd23e486ce8400f467b3f8500cd3e7e43f53e003a95c070d3143fdf20513f0000000017a7133f17a713bf00000000df20513f000080bf80bd07bd003a95c0f0d7a33c8500cd3e7e43f53e486ce84070d3143fdf20513f0000000017a7133f17a713bf00000000df20513f000080bf80bd07bd486ce8400f467b3f8500cd3e001ed93a003a95c030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf6978103f003a95c00bd7a33c34aae53e001ed93a486ce84030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf6978103f486ce84008467b3f34aae53e001ed93a003a95c030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf001ed9ba003a95c009467b3f5976103f001ed93a486ce84030ce703fd851a23e0000000058cb723f58cb72bf00000000d851a23e000080bf001ed9ba486ce8400bd7a33c5976103f0ea216bf003a95c030ce703fd851a2be0000000058cb723f58cb72bf00000000d851a2be000080bf0ea2163f003a95c010467b3fa948043f0ea216bf486ce84030ce703fd851a2be0000000058cb723f58cb72bf00000000d851a2be000080bf0ea2163f486ce840eed7a33ca948043f0ea216bf003a95c030ce703fd851a2be0000000058cb723f58cb72bf00000000d751a2be000080bfbba5c3bd003a95c010467b3fa948043f0ea216bf486ce84030ce703fd851a2be0000000058cb723f58cb72bf00000000d751a2be000080bfbba5c3bd486ce840eed7a33ca948043fa06b88bf003a95c06fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bf8d7f003f003a95c00a467b3fa4e7ef3ea06b88bf486ce8406fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bf8d7f003f486ce8402fd7a33ca4e7ef3ea06b88bf003a95c06fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bfff6671be003a95c006467b3fb4672a3ea06b88bf486ce8406fd3143fdf2051bf0000000016a7133f16a713bf00000000df2051bf000080bfff6671be486ce8400bd7a33cb4672a3e90c29fbf003a95c019afb9b3000080bf00000000fd3849b3fd25863300000000000080bf000080bf8d3fbf3e003a95c00d467b3ff235f03d90c29fbf486ce84019afb9b3000080bf00000000fd3849b3fd25863300000000000080bf000080bf8d3fbf3e486ce840f3d7a33cf235f03d90c29fbf003a95c019afb9b3000080bf00000000fd3849b3ff25063300000000000080bf000080bf8b3fbfbe003a95c00d467b3ff235f03d90c29fbf486ce84019afb9b3000080bf00000000fd3849b3ff25063300000000000080bf000080bf8b3fbfbe486ce840f3d7a33cf235f03da06b88bf003a95c06ed314bfdf2051bf0000000016a713bf17a7133f00000000df2051bf000080bff366713e003a95c014467b3f7d9c8b3da06b88bf486ce8406ed314bfdf2051bf0000000016a713bf17a7133f00000000df2051bf000080bff366713e486ce840dbd8a33c7d9c8b3da06b88bf003a95c06ed314bfdf2051bf0000000016a713bf15a7133f00000000df2051bf000080bf8b7f00bf003a95c014467b3f7d9c8b3da06b88bf486ce8406ed314bfdf2051bf0000000016a713bf15a7133f00000000df2051bf000080bf8b7f00bf486ce840dbd8a33c7d9c8b3d10a216bf003a95c02fce70bfd951a2be0000000058cb72bf58cb723f00000000d851a2be000080bfbaa5c33d003a95c01b467b3f0bd7a33c10a216bf486ce8402fce70bfd951a2be0000000058cb72bf58cb723f00000000d851a2be000080bfbaa5c33d486ce840c0d9a33c0bd7a33c10a216bf003a95c02fce70bfd951a2be0000000058cb72bf57cb723f00000000d951a2be000080bf10a216bf003a95c0d3d8a33c96e23e3e10a216bf486ce8402fce70bfd951a2be0000000058cb72bf57cb723f00000000d951a2be000080bf10a216bf486ce84014467b3f96e23e3e0022d93a003a95c02fce70bfd851a23e0000000058cb72bf58cb723f00000000d851a23e000080bf0022d93a003a95c0f0d7a33c57996f3e0022d93a486ce8402fce70bfd851a23e0000000058cb72bf58cb723f00000000d851a23e000080bf0022d93a486ce8400d467b3f57996f3e0022d93a003a95c02fce70bfd851a23e0000000058cb72bf58cb723f00000000d751a23e000080bf677810bf003a95c0f0d7a33c57996f3e0022d93a486ce8402fce70bfd851a23e0000000058cb72bf58cb723f00000000d751a23e000080bf677810bf486ce8400d467b3f57996f3e7c43f53e003a95c071d314bfde20513f0000000017a713bf16a7133f00000000de20513f000080bf69bd073d003a95c00bd7a33c5a76903e7c43f53e486ce84071d314bfde20513f0000000017a713bf16a7133f00000000de20513f000080bf69bd073d486ce84006467b3f5a76903e7c43f53e003a95c071d314bfde20513f0000000017a713bf17a7133f00000000de20513f000080bfca9bd2be003a95c01dd8a33ccab39a3e7c43f53e486ce84071d314bfde20513f0000000017a713bf17a7133f00000000de20513f000080bfca9bd2be486ce84011467b3fcab39a3ea04f293f003a95c0000000000000803f00000000fe2506b3fe250633000000000000803f000080bf89ae4a3e003a95c034d7a33c28dab33ea04f293f486ce840000000000000803f00000000fe2506b3fe250633000000000000803f000080bf89ae4a3e486ce84009467b3f28dab33e7e43f53e003a95c070d3143f00000000000080bf00000000000080bf0000000000000000000080bf7e43f5be70d3143f6711233eb9fe343f803596be003a95c00000000000000000000080bf00000000000080bf0000000000000000000080bf8035963e00000000f599c63d15ff283fa04f293f003a95c00000000000000000000080bf00000000000080bf0000000000000000000080bfa04f29bf00000000141f323e15ff283f001ed93a003a95c030ce703f00000000000080bf00000000000080bf0000000000000000000080bf001ed9ba30ce703fb450f73d19693c3f0ea216bf003a95c030ce703f00000000000080bf00000000000080bf0000000000000000000080bf0ea2163f30ce703f36e3953d19693c3fa06b88bf003a95c06fd3143f00000000000080bf00000000000080bf0000000000000000000080bfa06b883f6fd3143f37220e3db9fe343f90c29fbf003a95c019afb9b300000000000080bf00000000000080bf0000000000000000000080bf90c29f3f19afb9b30bd7a33c15ff283fa06b88bf003a95c06ed314bf00000000000080bf00000000000080bf0000000000000000000080bfa06b883f6ed314bf38220e3d72ff1c3f10a216bf003a95c02fce70bf00000000000080bf00000000000080bf0000000000000000000080bf10a2163f2fce70bf35e3953d1295153f0022d93a003a95c02fce70bf00000000000080bf00000000000080bf0000000000000000000080bf0022d9ba2fce70bfb750f73d1295153f7c43f53e003a95c071d314bf00000000000080bf00000000000080bf0000000000000000000080bf7c43f5be71d314bf6611233e72ff1c3fa04f293f486ce84000000000000000000000803f000000000000803f0000000000000000000080bfa04f293f000000000bd7a33cd5f1543f803596be486ce84000000000000000000000803f000000000000803f0000000000000000000080bf803596be00000000f599c63dd5f1543f7e43f53e486ce84070d3143f000000000000803f000000000000803f0000000000000000000080bf7e43f53e70d3143f39220e3d78f1603f001ed93a486ce84030ce703f000000000000803f000000000000803f0000000000000000000080bf001ed93a30ce703f35e3953dd95b683f0ea216bf486ce84030ce703f000000000000803f000000000000803f0000000000000000000080bf0ea216bf30ce703fb450f73dd95b683fa06b88bf486ce8406fd3143f000000000000803f000000000000803f0000000000000000000080bfa06b88bf6fd3143f6711233e78f1603f90c29fbf486ce84019afb9b3000000000000803f000000000000803f0000000000000000000080bf90c29fbf19afb9b3141f323ed5f1543fa06b88bf486ce8406ed314bf000000000000803f000000000000803f0000000000000000000080bfa06b88bf6ed314bf6711233e32f2483f10a216bf486ce8402fce70bf000000000000803f000000000000803f0000000000000000000080bf10a216bf2fce70bfb650f73dd187413f0022d93a486ce8402fce70bf000000000000803f000000000000803f0000000000000000000080bf0022d93a2fce70bf35e3953dd187413f7c43f53e486ce84071d314bf000000000000803f000000000000803f0000000000000000000080bf7c43f53e71d314bf3c220e3d32f2483f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -68450,7 +68450,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &1383897952
 MeshCollider:
@@ -69518,7 +69518,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1450785388
 Transform:
@@ -70527,7 +70527,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1464276965
 Transform:
@@ -71061,7 +71061,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1485797527
 Transform:
@@ -71417,7 +71417,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1493708863
 Transform:
@@ -72426,7 +72426,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1514127813
 Transform:
@@ -73791,7 +73791,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &1565274183
 MeshCollider:
@@ -74322,7 +74322,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1568886564
 Transform:
@@ -75865,7 +75865,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &1611917013
 MeshCollider:
@@ -76221,7 +76221,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1621034134
 Transform:
@@ -77230,7 +77230,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1622726094
 Transform:
@@ -78239,7 +78239,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1630113090
 Transform:
@@ -78595,7 +78595,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1668254238
 Transform:
@@ -79604,7 +79604,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1677560785
 Transform:
@@ -80608,7 +80608,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1723323513
 Transform:
@@ -80651,7 +80651,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1726237259
 Transform:
@@ -81660,7 +81660,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1755854141
 Transform:
@@ -82669,7 +82669,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1756374000
 Transform:
@@ -83737,7 +83737,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1790636788
 Transform:
@@ -84924,7 +84924,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1796341245
 Transform:
@@ -85277,7 +85277,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1814196607
 Transform:
@@ -86286,7 +86286,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1834084297
 Transform:
@@ -86817,7 +86817,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1900221504
 Transform:
@@ -87826,7 +87826,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1906243841
 Transform:
@@ -88357,7 +88357,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1936143116
 Transform:
@@ -90078,7 +90078,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &1964288938
 Transform:
@@ -91087,7 +91087,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!64 &2016389869
 MeshCollider:
@@ -91621,7 +91621,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2016601618
 Transform:
@@ -92808,7 +92808,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2032005399
 Transform:
@@ -94351,7 +94351,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2078857591
 Transform:
@@ -95538,7 +95538,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2082200794
 Transform:
@@ -98898,7 +98898,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2091093783
 Transform:
@@ -99907,7 +99907,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2093076339
 Transform:
@@ -101272,7 +101272,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2112612380
 Transform:
@@ -102281,7 +102281,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 64
   m_IsActive: 1
 --- !u!4 &2115468188
 Transform:
