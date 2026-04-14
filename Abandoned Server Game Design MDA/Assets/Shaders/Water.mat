@@ -57,6 +57,8 @@ Material:
     - _Foam_Min: 0.1
     - _Foam_Size: 81.41
     - _Frensnel_Power: -0
+    - _Intersection_Power: 2.94
+    - _Intersection_Thickness: 12.47
     - _Max_Smoothness: 0.77
     - _Metalic: 0.1
     - _Min_Smoothness: 0.47
@@ -69,12 +71,13 @@ Material:
     - _Transparency: 1
     - _Transparency_Distance_Fallof: 0.98
     - _Transparency_Max: 0.986
-    - _Transparency_Min: 0.88
+    - _Transparency_Min: 0.84
     - _WaveCount: 14.72
-    - _WaveSize: 0.05
+    - _WaveSize: 0.1
     - _WaveSpeed: 0.5
     m_Colors:
     - _Foam_Color: {r: 0.16043542, g: 0.16981131, b: 0.12527588, a: 1}
+    - _Intersection_Color: {r: 0.554717, g: 0.554717, b: 0.554717, a: 1}
     - _Water_Color: {r: 0.14381254, g: 0.15471691, b: 0.107134156, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
