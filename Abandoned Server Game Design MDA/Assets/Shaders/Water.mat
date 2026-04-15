@@ -59,15 +59,15 @@ Material:
     - _Frensnel_Power: 0
     - _Intersection_Power: 3.25
     - _Intersection_Thickness: 4.52
-    - _Max_Smoothness: 1
+    - _Max_Smoothness: 0.95
     - _Metalic: 0
-    - _Min_Smoothness: 0.47
+    - _Min_Smoothness: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RippleCount: 100
     - _RippleSize: 2.5
     - _SmallerWaveSize: 0
-    - _Smoothness_Distance_Fallof: 0.04
+    - _Smoothness_Distance_Fallof: 0.012
     - _Transparency: 1
     - _Transparency_Distance_Fallof: 0.98
     - _Transparency_Max: 1
