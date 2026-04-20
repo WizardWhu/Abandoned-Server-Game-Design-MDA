@@ -56,11 +56,11 @@ Material:
     - _Foam_Limit: 0.08
     - _Foam_Min: 0.06
     - _Foam_Size: 81.96
-    - _Frensnel_Power: 0
+    - _Frensnel_Power: 0.02
     - _Intersection_Power: 3.25
     - _Intersection_Thickness: 11.7
-    - _Max_Smoothness: 1
-    - _Metalic: 0.1
+    - _Max_Smoothness: 0.94
+    - _Metalic: -3.76
     - _Min_Smoothness: 0.67
     - _QueueControl: 0
     - _QueueOffset: 0
