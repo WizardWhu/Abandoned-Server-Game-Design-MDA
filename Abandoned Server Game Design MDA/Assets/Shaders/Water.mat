@@ -69,8 +69,8 @@ Material:
     - _SmallerWaveSize: 0
     - _Smoothness_Distance_Fallof: 0.03
     - _Transparency: 1
-    - _Transparency_Distance_Fallof: 0.05
-    - _Transparency_Max: 0.751
+    - _Transparency_Distance_Fallof: 0.04
+    - _Transparency_Max: 1
     - _Transparency_Min: 0.11
     - _WaveCount: 14.72
     - _WaveSize: 0.125
