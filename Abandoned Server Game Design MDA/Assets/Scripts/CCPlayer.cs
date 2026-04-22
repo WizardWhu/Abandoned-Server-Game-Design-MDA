@@ -126,10 +126,11 @@ public class CCPlayer : MonoBehaviour
         //bool didHit = Physics.Raycast(ray, out hit, interactDistance);
 
         //if (!didHit) return;//if we didn't hit anything start here
-
         //if we hit something tagged interactable
         if (Physics.Raycast(ray, out RaycastHit hit, interactDistance))
         {
+            Debug.Log("Pressed");
+
             currentInteractable = hit.collider.GetComponentInParent<Interactable>();
             if (currentInteractable != null && reticleImage != null)
             {
